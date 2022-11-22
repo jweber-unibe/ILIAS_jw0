@@ -21,7 +21,7 @@
          1. [Optional Dependencies](#optional-dependencies)
    1. [Get the code](#get-code)
    1. [Install ILIAS](#install-ilias)
-   1. [Hardening and Security](#hardening-and-security)
+   1. [Hardening and Security Guidance](#hardening-and-security-guidance)
    1. [Configure ILIAS Java RPC server \(optional\)](#java-rpc-configuration)
    1. [Configure E-Mail \(optional\)](#e-mail-configuration)
    1. [Configure WebDAV \(optional\)](#webdav-configuration)
