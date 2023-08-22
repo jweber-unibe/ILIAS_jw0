@@ -538,7 +538,7 @@ assessment#:#assTextQuestion#:#Essay Question
 assessment#:#assTextSubset#:#Text Subset Question
 assessment#:#ass_cloze_fb_mode#:#Feedback Mode
 assessment#:#ass_cloze_fb_mode_gap_answ#:#Answer specific Feedback
-assessment#:#ass_cloze_fb_mode_gap_answ_info#:#For every gap separate feedbacks can be configured for different answers.
+assessment#:#ass_cloze_fb_mode_gap_answ_info#:#For every gap separate feedback can be configured for different answers.
 assessment#:#ass_cloze_fb_mode_gap_qst#:#Feedback per Gap
 assessment#:#ass_cloze_fb_mode_gap_qst_info#:#For every gap a single feedback can be configured.
 assessment#:#ass_cloze_gap_fb_gap_label#:#Gap %s: <i>%s</i>
@@ -947,7 +947,7 @@ assessment#:#new_category#:#New Unit Category
 assessment#:#new_unit#:#New Unit
 assessment#:#next_question#:#Next
 assessment#:#next_question_rows#:#Questions %d - %d of %d →
-assessment#:#no_manual_feedback_export_info#:#Manual feedbacks will not be exported.
+assessment#:#no_manual_feedback_export_info#:#Manual feedback will not be exported.
 assessment#:#no_passed_mark#:#You must set at least one mark to PASSED! The mark schema was not saved.
 assessment#:#no_question_selected_for_move#:#Please check at least one question to move it!
 assessment#:#no_questions_available#:#There are no questions available!
@@ -1313,8 +1313,8 @@ assessment#:#tst_activation_online_info#:#If online, participants can take the t
 assessment#:#tst_add_quest_cont_edit_mode#:#Editor
 assessment#:#tst_add_quest_cont_edit_mode_IPE#:#Use plain text for questions and answers and ILIAS page editor for feedback and hints
 assessment#:#tst_add_quest_cont_edit_mode_IPE_info#:#No formatting of text in question and answers. No use of LaTex either. But feedback and hints can be reused when question is embedded in ILIAS learning module.
-assessment#:#tst_add_quest_cont_edit_mode_RTE#:#Use Rich-Text-Editor (TinyMCE) for editing questions and answers, feedbacks and hints
-assessment#:#tst_add_quest_cont_edit_mode_RTE_info#:#Allows text formatting of questions, answers, feedbacks and hints. But feedback and hints cannot be reused when question is embedded in ILIAS learning module.
+assessment#:#tst_add_quest_cont_edit_mode_RTE#:#Use Rich-Text-Editor (TinyMCE) for editing questions and answers, feedback and hints
+assessment#:#tst_add_quest_cont_edit_mode_RTE_info#:#Allows text formatting of questions, answers, feedback and hints. But feedback and hints cannot be reused when question is embedded in ILIAS learning module.
 assessment#:#tst_addit_passes_blocked_after_passed_msg#:#You have passed the test. The test cannot be started again.
 assessment#:#tst_all_test_competences#:#All Test Competence
 assessment#:#tst_all_user_data_deleted#:#All user data of this test has been removed!
@@ -6293,7 +6293,7 @@ content#:#cont_dir_deleted#:#Directory has been deleted.
 content#:#cont_dir_file#:#Directory/File
 content#:#cont_dir_renamed#:#Directory has been renamed.
 content#:#cont_disable_def_feedback#:#Disable Default Question Feedback
-content#:#cont_disable_def_feedback_info#:#If disabled, answered questions will not show any feedback for the learner. You need to provide custom feedbacks for your questions.
+content#:#cont_disable_def_feedback_info#:#If disabled, answered questions will not show any feedback for the learner. You need to provide custom feedback for your questions.
 content#:#cont_download#:#Download
 content#:#cont_download_no_download#:#Download will not be available to users, since the download feature is not activated.
 content#:#cont_download_no_menu#:#Download will not be available to users since the learning module menu is not activated.
@@ -9098,7 +9098,7 @@ exc#:#exc_msg_participants_removed#:#The participants have been removed from the
 exc#:#exc_msg_public_submission#:#All submissions will be published after the deadline.
 exc#:#exc_msg_saved_grades#:#Grades and comments have been saved.
 exc#:#exc_msg_sure_to_deassign_participant#:#Are you sure that you want to remove the participants from all assignments of the exercise? This will also delete all their handed in resources!
-exc#:#exc_multi_feedb_info#:#On this screen you can upload multiple feedbacks in one file. First click on ‘Download ZIP Structure’, save the ZIP file and extract it on your local computer. Put the feedback files into the corresponding user directories. Now compress the whole directory as one ZIP file again. Browse your local filesystem for the file and select it as the ‘Multi-Feedback File’ in the form below. After that click ‘Upload’. A confirmation screen will list the files. Please avoid using any special characters in your file names.
+exc#:#exc_multi_feedb_info#:#On this screen you can upload multiple feedback in one file. First click on ‘Download ZIP Structure’, save the ZIP file and extract it on your local computer. Put the feedback files into the corresponding user directories. Now compress the whole directory as one ZIP file again. Browse your local filesystem for the file and select it as the ‘Multi-Feedback File’ in the form below. After that click ‘Upload’. A confirmation screen will list the files. Please avoid using any special characters in your file names.
 exc#:#exc_multi_feedback#:#Evaluation for many Participants
 exc#:#exc_multi_feedback_file#:#Multi-Feedback File
 exc#:#exc_multi_feedback_files#:#Multi-Feedback Files
@@ -9137,8 +9137,8 @@ exc#:#exc_peer_review#:#Peer-Feedback
 exc#:#exc_peer_review_ass_setting_info#:#Users can rate the solutions of their peers after the deadline and if granted the grace period lapsed. Specific settings on peer-feedback are made in the respective tab. After activation this option and saving it, the tab 'Peer-Feedback' will be displayed.
 exc#:#exc_peer_review_chars_invalid#:#Your feedback does not have the required minimum length of %s characters.
 exc#:#exc_peer_review_completion#:#Determination of "Passed" Status
-exc#:#exc_peer_review_completion_all#:#All required feedbacks
-exc#:#exc_peer_review_completion_all_info#:#The assignment will be automatically set to "Passed" only after submission of a solution and all required feedbacks.
+exc#:#exc_peer_review_completion_all#:#All required feedback
+exc#:#exc_peer_review_completion_all_info#:#The assignment will be automatically set to "Passed" only after submission of a solution and all required feedback.
 exc#:#exc_peer_review_completion_none#:#Peer feedback is optional
 exc#:#exc_peer_review_completion_none_info#:#The assignment will be automatically set to "Passed" after submission regardless of feedback being provided or not.
 exc#:#exc_peer_review_completion_one#:#At least one feedback
@@ -9157,10 +9157,10 @@ exc#:#exc_peer_review_invalid_peer_ids#:#Peer recipients who are not exercise me
 exc#:#exc_peer_review_min_chars#:#Mininum Number of Characters
 exc#:#exc_peer_review_min_chars_info#:#The required number of characters for a valid feedback.
 exc#:#exc_peer_review_min_chars_tgl#:#Mininum Length
-exc#:#exc_peer_review_min_number#:#Required Number of Feedbacks
-exc#:#exc_peer_review_min_number_info#:#Number of feedbacks a participant is required to give to peers. In case the minimum number of required feedbacks is greater than the actual number of submissions, the required minimum is automatically reduced to the the number of peer submissions.
-exc#:#exc_peer_review_missing_info#:#To see your received feedback, you still have to give %s feedbacks.
-exc#:#exc_peer_review_missing_info_deadline#:#To see your received feedback, you still have to give %1$s feedbacks. Access will be granted on: %2$s.
+exc#:#exc_peer_review_min_number#:#Required Number of Feedback
+exc#:#exc_peer_review_min_number_info#:#Number of feedback a participant is required to give to peers. In case the minimum number of required feedback is greater than the actual number of submissions, the required minimum is automatically reduced to the the number of peer submissions.
+exc#:#exc_peer_review_missing_info#:#To see your received feedback, you still have to give %s feedback.
+exc#:#exc_peer_review_missing_info_deadline#:#To see your received feedback, you still have to give %1$s feedback. Access will be granted on: %2$s.
 exc#:#exc_peer_review_missing_users#:#Users with submissions who are not part of the peer-feedback
 exc#:#exc_peer_review_no_peers#:#There are no peers to give feedback for.
 exc#:#exc_peer_review_no_peers_reviewed_yet#:#There was no feedback given yet.
@@ -9179,7 +9179,7 @@ exc#:#exc_peer_review_show_missing#:#You cannot view your received feedback as y
 exc#:#exc_peer_review_show_received_none#:#You received no feedback.
 exc#:#exc_peer_review_simple_unlock#:#Access to received feedback
 exc#:#exc_peer_review_simple_unlock_active#:#After giving at least 1 valid feedback
-exc#:#exc_peer_review_simple_unlock_inactive#:#After giving all required feedbacks
+exc#:#exc_peer_review_simple_unlock_inactive#:#After giving all required feedback
 exc#:#exc_peer_review_text#:#Text Input
 exc#:#exc_peer_review_updated#:#Your feedback has been saved.
 exc#:#exc_peer_reviews_invalid_warning#:#Invalid Peer Groups
@@ -15550,7 +15550,7 @@ survey#:#survey_360_raters_finished#:#Raters Finished
 survey#:#survey_360_raters_status_info#:#Raters finished
 survey#:#survey_360_remove_appraisees#:#Remove Appraisee(s)
 survey#:#survey_360_results#:#Access To Results For Appraisees
-survey#:#survey_360_results_all#:#All Feedbacks
+survey#:#survey_360_results_all#:#All Feedback
 survey#:#survey_360_results_all_info#:#All appraisees of the 360°-Survey can view all feedback provided by all raters of all appraisees, not only by their own raters.
 survey#:#survey_360_results_none#:#No Access to Results
 survey#:#survey_360_results_none_info#:#Appraisees can not access the feedback provided by raters.
