@@ -1,8 +1,9 @@
+/
 name: legacy-ui-checks
 on:
   schedule:
      # Run every 12 hours
-    - cron: '0 3,15 * * *'
+##    ##- cron: '0 3,15 * * *'
   workflow_dispatch:
     inputs:
       branch:
