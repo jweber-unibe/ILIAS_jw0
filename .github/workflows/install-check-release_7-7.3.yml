@@ -1,7 +1,7 @@
 name: install-check-release_7-7.3
 on:
   schedule:
-    - cron: "0 12 * * *"
+##    ##- cron: "0 12 * * *"
   workflow_dispatch:
 jobs:
   installation:
